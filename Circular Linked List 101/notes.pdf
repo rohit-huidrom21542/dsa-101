@@ -1,0 +1,12 @@
+in circular LL, last node points back to the head node
+
+Empty CLL=> head = NULL
+1 node CLL=> head->next=head
+
+Advantages of CLL: 
+    1. We can traverse the whole list from any node
+    2. implement of algos like Round Robin
+    3. We can insert at the beginning and end by just maintaining one tail reference/pointer
+
+Disadvantages of CLL:
+    1. Implementation of operations become complex
