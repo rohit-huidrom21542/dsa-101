@@ -1,0 +1,32 @@
+Important terms: 
+        Nodes, Root node, Leaf nodes, Children nodes,Parent nodes, Subtree, Descendants, Ancestors, Degree, Internal nodes
+
+
+Applications of tree: 
+ 1. Represent hierarchical data:
+    a)  Organisation structure
+    b) Folder structure
+    c) XML/HTML Content(JSON objects)
+    d) In OOP(inheritance)
+ 2. Binary search tree
+ 3. Binary heap
+ 4. B and B+ trees in DBMS
+ 5. Spanning and shortcut path trees in computer networks
+ 6. Parse tree, Expression tree in compilers
+ 7. Trie
+ 8. Suffix tree
+ 9. Binary Index tree
+ 10. Segment tree
+
+
+Binary tree: 
+        each node has at most 2 children nodes
+        the degree of each node is <=2.
+
+
+Tree traversals:
+ 1. Breadth first(or Level Order)
+ 2. Depth first:
+        a. Inorder(Left Root Right)
+        b. Preorder(Root Left Right)
+        c. Postorder(Left Right Root)
